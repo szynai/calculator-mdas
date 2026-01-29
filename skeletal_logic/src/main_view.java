@@ -29,6 +29,9 @@ public class main_view {
                     switch (choice) {
                         case 1:
                             //addition
+                            result = num1+num2;
+                            System.out.print("Resualt: " + result);
+                            break;
 
                         case 2:
                             //multiplication
