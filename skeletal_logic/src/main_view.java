@@ -30,13 +30,13 @@ public class main_view {
                         case 1:
                             //addition
                             result = num1+num2;
-                            System.out.print("Resualt: " + result);
+                            System.out.print("Result: " + result);
                             break;
 
                         case 2:
                             //multiplication
                             result = num1*num2;
-                            System.out.print("Resualt: " + result);
+                            System.out.print("Result: " + result);
                             break;
                         case 3:
                            //division
