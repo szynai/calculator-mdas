@@ -40,6 +40,13 @@ public class main_view {
                             break;
                         case 3:
                            //division
+                             if (num2 != 0) {
+                                result = num1 / num2;
+                                System.out.println("Result: " + result);
+                            } else {
+                                System.out.println("Error: Cannot divide by zero.");
+                            }
+                            break;
                     }
                     break;
 
