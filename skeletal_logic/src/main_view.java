@@ -32,7 +32,9 @@ public class main_view {
 
                         case 2:
                             //multiplication
-
+                            result = num1*num2;
+                            System.out.print("Resualt: " + result);
+                            break;
                         case 3:
                            //division
                     }
